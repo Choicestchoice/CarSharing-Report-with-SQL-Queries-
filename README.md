@@ -12,7 +12,7 @@ This repository contains SQL queries and documentation for analyzing a car-shari
 
 • **README md:** This file, provides an overview of the repository and instructions for accessing and using the SQL queries.
 
-Click here to see these file
+<a href="https://drive.google.com/drive/folders/1_Qg0p9H1dxKHvDBPpw9dIRW0cdzI93_k?usp=drive_link">Click here to see this file</a>
 
 # SQL Queries
 1. Highest Demand Rate in 2017:
@@ -55,7 +55,7 @@ Click here to see these file
 The original dataset was obtained from a car-sharing company and includes hourly data on customer demand rates, weather conditions, and temperature. Due to privacy considerations, the dataset has been anonymized and Sanitized.
 
 # Author
+<a href="https://www.linkedin.com/in/anenechoice541448208utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Anene Choice</a>
 
 # License
-
 This project is licensed under the Datefied Technologies License - see the UCENSE file for details.    
