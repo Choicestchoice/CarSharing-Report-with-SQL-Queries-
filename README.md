@@ -8,11 +8,11 @@ This repository contains SQL queries and documentation for analyzing a car-shari
 
 • **Data Model.ERD.png:** Entity-relationship diagram (ERD) ilustrating the data model and relationships between tables.
 
-• **Data Dictionary md:** Documentation describing the structure and contents of each table in the dataset.
+• **Data Dictionary.md:** Documentation describing the structure and contents of each table in the dataset.
 
-• **README md:** This file, provides an overview of the repository and instructions for accessing and using the SQL queries.
+• **README.md:** This file, provides an overview of the repository and instructions for accessing and using the SQL queries.
 
-<a href="https://drive.google.com/drive/folders/1_Qg0p9H1dxKHvDBPpw9dIRW0cdzI93_k?usp=drive_link">Click here to see the files</a>
+Click <a href="https://drive.google.com/drive/folders/1_Qg0p9H1dxKHvDBPpw9dIRW0cdzI93_k?usp=drive_link">here</a> to see the files
 
 # Instructions
 1. Clone or download this repository to your local machine.
