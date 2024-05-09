@@ -4,7 +4,7 @@
 This repository contains SQL queries and documentation for analyzing a car-sharing dataset. The dataset includes information about customer demand rates, weather conditions, and temperature data collected on an hourly basis between January 2017 and August 2018.
 
 # Files
-• **SOL queries.sql:** Contains SQl queries used to analyze the dataset and answer specific business questions.
+• **SOL Queries Sql:** Contains SQl queries used to analyze the dataset and answer specific business questions.
 
 • **Data Model.ERD.png:** Entity-relationship diagram (ERD) ilustrating the data model and relationships between tables.
 
@@ -12,7 +12,7 @@ This repository contains SQL queries and documentation for analyzing a car-shari
 
 • **README md:** This file, provides an overview of the repository and instructions for accessing and using the SQL queries.
 
-<a href="https://drive.google.com/drive/folders/1_Qg0p9H1dxKHvDBPpw9dIRW0cdzI93_k?usp=drive_link">Click here to see this file</a>
+<a href="https://drive.google.com/drive/folders/1_Qg0p9H1dxKHvDBPpw9dIRW0cdzI93_k?usp=drive_link">Click here to see the files</a>
 
 # SQL Queries
 1. Highest Demand Rate in 2017:
