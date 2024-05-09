@@ -14,6 +14,17 @@ This repository contains SQL queries and documentation for analyzing a car-shari
 
 <a href="https://drive.google.com/drive/folders/1_Qg0p9H1dxKHvDBPpw9dIRW0cdzI93_k?usp=drive_link">Click here to see the files</a>
 
+# Instructions
+1. Clone or download this repository to your local machine.
+   
+2. Open the SC, queries sql file to view the SOL queries.
+   
+3. Execute the SOL queries in your prefered SOL database management system (e.g. MySOL Workbench, SQuite).
+   
+4. Review the results and analysis provided by each query.
+   
+5. Refer to the Data, Dictionary.md file for descriptions of table structures and column definition.
+   
 # SQL Queries
 1. Highest Demand Rate in 2017:
    
@@ -40,17 +51,6 @@ This repository contains SQL queries and documentation for analyzing a car-shari
     
    •Quey to antiyze weather conditions for the month with the highest average demand rate in 2017.
    
-# Instructions
-1. Clone or download this repository to your local machine.
-   
-2. Open the SC, queries sql file to view the SOL queries.
-   
-3. Execute the SOL queries in your prefered SOL database management system (e.g. MySOL Workbench, SQuite).
-   
-4. Review the results and analysis provided by each query.
-   
-5. Reler to the Data, Dictionary md tie for descriptions of table structures and column delintion.
-
 # Data Source
 The original dataset was obtained from a car-sharing company and includes hourly data on customer demand rates, weather conditions, and temperature. Due to privacy considerations, the dataset has been anonymized and Sanitized.
 
