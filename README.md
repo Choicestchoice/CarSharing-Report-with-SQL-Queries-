@@ -17,9 +17,9 @@ Click <a href="https://drive.google.com/drive/folders/1_Qg0p9H1dxKHvDBPpw9dIRW0c
 # Instructions
 1. Clone or download this repository to your local machine.
    
-2. Open the SC, queries sql file to view the SOL queries.
+2. Open the SQL, queries sql file to view the SQL queries.
    
-3. Execute the SOL queries in your prefered SOL database management system (e.g. MySOL Workbench, SQuite).
+3. Execute the SQL queries in your prefered SQL database management system (e.g. MySQL Workbench, SQLite).
    
 4. Review the results and analysis provided by each query.
    
